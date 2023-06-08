@@ -1,0 +1,75 @@
+
+*{
+ text-align: center;   
+}
+
+.container{
+    margin: auto;
+    margin-top: 15%;
+    /* border: 2px solid black; */
+    height: 60%;
+    width: 30%;
+    background-color: rgb(92, 81, 66);
+    border-radius: 8px;
+    opacity: 0.8;
+    font-weight: bold;
+    font-size: 36px;
+    text-shadow: whitesmoke;
+    /* display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items: center */
+}
+
+.input_space{
+    margin-bottom: 10px;
+}
+
+input{
+    margin-top: 30px;
+    margin-bottom: 20px;
+    height: 40px;
+    width: 55%;
+    font-size: 18px;
+    border-radius: 2px;
+}
+
+button{
+    font-size: 14px;
+    box-shadow: rgba(5, 5, 5, 0.2);
+    height: 35px;
+    width: 18%;
+    background-color: rgb(30, 97, 102);
+    border-radius: 5px;
+    margin-bottom: 20px;
+    font-weight: bold;
+    
+}
+
+.SignIn{
+    margin-right: 5px;
+    color: white;
+    font-weight: bold;
+    height: 50px;
+    font-size: 30px;
+}
+
+.New{
+    margin-right: 5px;
+    color: white;
+    background-color:rgb(30, 97, 102);
+    font-weight: bold;
+    height: 50px;
+    font-size: 30px;
+    
+}
+
+.b{
+    margin-right: 5px;
+    color: white;
+    background-color:rgb(30, 97, 102);
+    font-weight: bold;
+    height: 50px;
+    font-size: 30px;
+    width: 100%;
+}
